@@ -1,4 +1,4 @@
-package cacher
+package cache
 
 // New Возвращает новый объект cacher
 func New() cacher {

@@ -1,4 +1,4 @@
-package cacher
+package cache
 
 type cacher struct {
 	list map[string]interface{}
